@@ -13,4 +13,4 @@ Step 3:
 Share the folder that has the "chat.py" and "messages.txt" files in it with you friend.
 
 Step 4:
-Open the "chat.py" file and type in a username. After that you can view messages and reply.
+Open the "chat.py" file and type in your username. After that you can view messages and reply.
