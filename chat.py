@@ -24,7 +24,7 @@ try:
     print(displayMsgs.read())
     print("Message successfully sent!")
 except:
-    print("\nMessage failed to send. Please report it here: sethuclemans@gmail.com\nThanks!")
+    print("\nMessage failed to send. Please report it.\nThanks!")
 finally:
     appendMags.close()
     displayMsgs.close()
